@@ -1,2 +1,6 @@
 # lis_590_dfw
-This is my artifact repository for my Summer '23 DFW with IHME.
+My name is Connor Franklin Rey. I am a first-year residential student in the University of Washington iSchool's MLIS program. This is my artifact repository for my Summer '23 Directed Field Work with the Institute for Health Metrics and Evaluation (IHME). The focus of this DFW is to research and procure new bindings for deteriorating data books, which will then be processed and translated if needed, before being added to the IHME Lending Library.
+
+The weekly reflections folder will contain written reflections of the week. 
+
+The artifacts folder will contain documentation of my work.
