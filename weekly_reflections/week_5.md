@@ -1,4 +1,4 @@
-  #Week 5 Reflection
+# Week 5 Reflection
 
 This week saw my continued efforts to get citation information translated from data books. Most of the translations I have sent out to IHME employees have come back and they look great, which is really exciting. I am having trouble finding people who speak Arabic, Farsi, and Polish within the organization. I met with members of the Data Library Services team to brainstorm ideas and got a lot of help there. The strategy we developed was to put a call for help out on the IHME Slack, which I have since done to no avail. I have directly emailed the only person at IHME who is listed as speaking Arabic. Hopefully, they will get back soon, ideally with the names of other people in the organization who speak the language. The strategy moving forward will be to reach out to UW subject librarians to see if they know of any resources, and as a last resort solicit the paid translation services IHME utilizes for some of their press materials.
 
