@@ -2,6 +2,8 @@
 
 #### Overview of Host Site and Projects:
 
+I participated in directed field work with the Institute for Health Metrics and Evaluation (IHME), a research institute specializing in global health statistics. Within IHME, I collaborated with the Data Library Services team on two projects involving the maintenance of physical data books within their lending library.
+
 The initial project involved evaluating the condition of over 100 deteriorating books, procuring suitable bindings to ensure their preservation, and subsequently rebinding them. For the other project, I coordinated the translation of citation information from 50 data books in various languages so that they could be added to the lending library inventory. Some of the titles I worked to preserve and add to the collection are difficult, if not impossible, to find elsewhere – rendering this work crucial to maintain health information from around the world. It's important to note that the majority of data, particularly concerning health, tends to mirror the prevailing and oppressive values of capitalist, patriarchal, cisheteronormative, settler-colonial, and Western societies. By safeguarding diverse data sources from countries like communist Poland to contemporary Indonesia, in their original languages, we bring a richness of perspectives to the collection that challenges dominant health narratives. This is crucial internationalist work towards health justice and equity that the IHME Data Library Services team is committed to, and for which I am grateful to have had the opportunity to contribute – and intend to continue throughout my career. 
 
 #### Self-Evaluation and Reflection:
